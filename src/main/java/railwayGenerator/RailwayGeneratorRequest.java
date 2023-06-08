@@ -11,5 +11,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class RailwayGeneratorRequest {
 	private String filePath;
+	private int quantidadeRetas;
+	private int quantidadeCurvas;
 
 }

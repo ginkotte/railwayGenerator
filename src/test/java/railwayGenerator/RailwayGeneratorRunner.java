@@ -1,7 +1,5 @@
 package railwayGenerator;
 
-import java.io.IOException;
-
 public class RailwayGeneratorRunner 
 {
 	public static void main(String[] args) throws Exception 

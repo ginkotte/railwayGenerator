@@ -6,9 +6,12 @@ public class RailwayGeneratorRunner
 	{
 		RailwayGeneratorRequest req = RailwayGeneratorRequest
 				.builder()
-				.filePath("/Users/inkt/dev/tcc/railwayGenerator/src/test/resources/via01.xml")
-				.quantidadeCurvas(100)
-				.quantidadeRetas(2000)
+				.filePath("/Users/inkt/dev/tcc/railwayGenerator/src/test/resources/viaBase.xml")
+				.qtdCurvas(100)
+				.qtdRetas(2000)
+				.qtdAclives(478)
+				.qtdDeclives(470)
+				.qtdPlanos(2)
 				.build();
 		
 		new RailwayGenerator().execute(req);

@@ -12,6 +12,7 @@ public class RailwayGeneratorRunner
 				.qtdAclives(478)
 				.qtdDeclives(470)
 				.qtdPlanos(2)
+				.qtdCristas(0)
 				.build();
 		
 		new RailwayGenerator().execute(req);

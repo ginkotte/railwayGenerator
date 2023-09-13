@@ -16,5 +16,5 @@ public class RailwayGeneratorRequest {
 	private int qtdAclives;
 	private int qtdDeclives;
 	private int qtdPlanos;
-
+	private int qtdCristas;
 }

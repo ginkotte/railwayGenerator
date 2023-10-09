@@ -116,73 +116,73 @@
 				<longitude>0</longitude>
 			</localizacao>
 		</pontoDeMedida>
-		<pontoDeMedida>
-			<!-- Pasta de origem rampa = km204-->
-			<!-- Pasta de origem curva = km204-->
-			<id>8</id>
-			<velocidadeMax>60</velocidadeMax>
-			<km>204</km>
-			<rampa ini="0.0" fim="20.0">-0.74032146</rampa>
-			<raioCurva ini="0.0" fim="20.0">0.0</raioCurva>
-			<ac ini="0.0" fim="20.0">0.0</ac>
-			<g20 ini="0.0" fim="20.0">0.0</g20>
-			<altitude ini="0.0" fim="20.0">526.9807</altitude>
-			<localizacao>
-				<latitude>0</latitude>
-				<longitude>0</longitude>
-			</localizacao>
-		</pontoDeMedida>
-		<pontoDeMedida>
-			<!-- Pasta de origem rampa = km204-->
-			<!-- Pasta de origem curva = km204-->
-			<id>9</id>
-			<velocidadeMax>60</velocidadeMax>
-			<km>204</km>
-			<rampa ini="0.0" fim="20.0">-0.74032146</rampa>
-			<raioCurva ini="0.0" fim="20.0">0.0</raioCurva>
-			<ac ini="0.0" fim="20.0">0.0</ac>
-			<g20 ini="0.0" fim="20.0">0.0</g20>
-			<altitude ini="0.0" fim="20.0">526.9807</altitude>
-			<localizacao>
-				<latitude>0</latitude>
-				<longitude>0</longitude>
-			</localizacao>
-		</pontoDeMedida>
-		<pontoDeMedida>
-			<!-- Pasta de origem rampa = km204-->
-			<!-- Pasta de origem curva = km204-->
-			<id>10</id>
-			<velocidadeMax>60</velocidadeMax>
-			<km>204</km>
-			<rampa ini="0.0" fim="20.0">-0.74032146</rampa>
-			<raioCurva ini="0.0" fim="20.0">0.0</raioCurva>
-			<ac ini="0.0" fim="20.0">0.0</ac>
-			<g20 ini="0.0" fim="20.0">0.0</g20>
-			<altitude ini="0.0" fim="20.0">526.9807</altitude>
-			<localizacao>
-				<latitude>0</latitude>
-				<longitude>0</longitude>
-			</localizacao>
-		</pontoDeMedida>
-		<pontoDeMedida>
-			<!-- Pasta de origem rampa = km204-->
-			<!-- Pasta de origem curva = km204-->
-			<id>11</id>
-			<velocidadeMax>60</velocidadeMax>
-			<km>204</km>
-			<rampa ini="0.0" fim="20.0">-0.74032146</rampa>
-			<raioCurva ini="0.0" fim="18.850002">0.0</raioCurva>
-			<raioCurva ini="18.850002" fim="20.0">407.5</raioCurva>
-			<ac ini="0.0" fim="18.850002">0.0</ac>
-			<ac ini="18.850002" fim="20.0">35.969444</ac>
-			<g20 ini="0.0" fim="18.850002">0.0</g20>
-			<g20 ini="18.850002" fim="20.0">2.8122222</g20>
-			<altitude ini="0.0" fim="20.0">526.9807</altitude>
-			<localizacao>
-				<latitude>0</latitude>
-				<longitude>0</longitude>
-			</localizacao>
-		</pontoDeMedida>
+			<pontoDeMedida>
+				<!-- Pasta de origem rampa = km204-->
+				<!-- Pasta de origem curva = km204-->
+				<id>8</id>
+				<velocidadeMax>60</velocidadeMax>
+				<km>204</km>
+				<rampa ini="0.0" fim="20.0">-0.74032146</rampa>
+				<raioCurva ini="0.0" fim="20.0">0.0</raioCurva>
+				<ac ini="0.0" fim="20.0">0.0</ac>
+				<g20 ini="0.0" fim="20.0">0.0</g20>
+				<altitude ini="0.0" fim="20.0">526.9807</altitude>
+				<localizacao>
+					<latitude>0</latitude>
+					<longitude>0</longitude>
+				</localizacao>
+			</pontoDeMedida>
+			<pontoDeMedida>
+				<!-- Pasta de origem rampa = km204-->
+				<!-- Pasta de origem curva = km204-->
+				<id>9</id>
+				<velocidadeMax>60</velocidadeMax>
+				<km>204</km>
+				<rampa ini="0.0" fim="20.0">-0.74032146</rampa>
+				<raioCurva ini="0.0" fim="20.0">0.0</raioCurva>
+				<ac ini="0.0" fim="20.0">0.0</ac>
+				<g20 ini="0.0" fim="20.0">0.0</g20>
+				<altitude ini="0.0" fim="20.0">526.9807</altitude>
+				<localizacao>
+					<latitude>0</latitude>
+					<longitude>0</longitude>
+				</localizacao>
+			</pontoDeMedida>
+			<pontoDeMedida>
+				<!-- Pasta de origem rampa = km204-->
+				<!-- Pasta de origem curva = km204-->
+				<id>10</id>
+				<velocidadeMax>60</velocidadeMax>
+				<km>204</km>
+				<rampa ini="0.0" fim="20.0">-0.74032146</rampa>
+				<raioCurva ini="0.0" fim="20.0">0.0</raioCurva>
+				<ac ini="0.0" fim="20.0">0.0</ac>
+				<g20 ini="0.0" fim="20.0">0.0</g20>
+				<altitude ini="0.0" fim="20.0">526.9807</altitude>
+				<localizacao>
+					<latitude>0</latitude>
+					<longitude>0</longitude>
+				</localizacao>
+			</pontoDeMedida>
+			<pontoDeMedida>
+				<!-- Pasta de origem rampa = km204-->
+				<!-- Pasta de origem curva = km204-->
+				<id>11</id>
+				<velocidadeMax>60</velocidadeMax>
+				<km>204</km>
+				<rampa ini="0.0" fim="20.0">-0.74032146</rampa>
+				<raioCurva ini="0.0" fim="18.850002">0.0</raioCurva>
+				<raioCurva ini="18.850002" fim="20.0">407.5</raioCurva>
+				<ac ini="0.0" fim="18.850002">0.0</ac>
+				<ac ini="18.850002" fim="20.0">35.969444</ac>
+				<g20 ini="0.0" fim="18.850002">0.0</g20>
+				<g20 ini="18.850002" fim="20.0">2.8122222</g20>
+				<altitude ini="0.0" fim="20.0">526.9807</altitude>
+				<localizacao>
+					<latitude>0</latitude>
+					<longitude>0</longitude>
+				</localizacao>
+			</pontoDeMedida>
 		<pontoDeMedida>
 			<!-- Pasta de origem rampa = km204-->
 			<!-- Pasta de origem curva = km204-->
@@ -551,7 +551,7 @@
 			<altitude ini="0.0" fim="20.0">526.856</altitude>
 			<localizacao>
 				<latitude>0</latitude>
-				<	>0</longitude>
+				<longitude>0</longitude>
 			</localizacao>
 		</pontoDeMedida>
 		<pontoDeMedida>

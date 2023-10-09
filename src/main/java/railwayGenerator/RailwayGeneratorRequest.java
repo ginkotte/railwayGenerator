@@ -11,7 +11,10 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class RailwayGeneratorRequest {
 	private String filePath;
-	private int quantidadeRetas;
-	private int quantidadeCurvas;
-
+	private int qtdRetas;
+	private int qtdCurvas;
+	private int qtdAclives;
+	private int qtdDeclives;
+	private int qtdPlanos;
+	private int qtdCristas;
 }
